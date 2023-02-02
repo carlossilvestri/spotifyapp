@@ -1,4 +1,8 @@
 # SpotifyApp
+![Captura de pantalla (312)](https://user-images.githubusercontent.com/54336195/216354649-e48d7805-b0de-4aea-86e3-1aebf012de18.png)
+![Captura de pantalla (311)](https://user-images.githubusercontent.com/54336195/216354685-de9dfe9b-147b-4e76-b712-5d01e0ee7ddf.png)
+![Captura de pantalla (313)](https://user-images.githubusercontent.com/54336195/216354703-90d4c8ce-2c27-4369-8413-411f2d0b1fee.png)
+
 Aplicación Web hecha en Angular para consultar la API de Spotify y consultar las canciones y los artistas más escuchados al momento.
 Para usarla es necesario tener una cuenta de desarrollador de la API de Spotify, generar el token de Spotify y colocarlo en el archivo spotify.service.ts
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
